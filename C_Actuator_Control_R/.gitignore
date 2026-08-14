@@ -1,0 +1,10 @@
+# ===== Root-level files to ignore =====
+
+# STM32CubeMX project file
+.mxproject
+
+# VS Code settings
+.vscode/
+
+# Ozone debugger user settings
+*.user

@@ -1,0 +1,43 @@
+# Keil ??????
+*.crf
+*.o
+*.obj
+*.d
+*.dep
+
+# Keil ????
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.sct
+*.htm
+*.lnp
+
+# Output binary with no extension
+CAN1.0/CAN1.0
+
+# Keil ????
+*.uvoptx
+*.uvguix.*
+*.uvprojx
+*.scvd
+*.ini
+*.bak
+
+# ??????
+*.log
+*.log.lock
+*.build_log.htm
+
+# VSCode ?????????????
+.vscode/
+!*.c
+!*.h
+
+# ??????
+Listings/
+Objects/
+DebugConfig/
+RTE/
